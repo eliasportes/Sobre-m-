@@ -1,4 +1,4 @@
-# Sobre-m-
+# Sobre-mi
 Soy Data Analyst Jr. con una formación profesional en diseño gráfico y experiencia previa en entornos creativos y de negocio, lo que me permite abordar el análisis de datos desde una perspectiva integral. Esta combinación me ha dado una ventaja competitiva: no solo analizo datos, sino que también me enfoco en comunicar insights de forma clara, visual y accionable, alineados a objetivos reales de negocio.
 
 Actualmente trabajo con Python (Pandas, NumPy, SciPy), SQL, Excel y herramientas de visualización de datos como Tableau, aplicando procesos completos de análisis que incluyen limpieza de datos, análisis exploratorio (EDA), análisis estadístico y generación de dashboards interactivos. Tengo experiencia analizando grandes volúmenes de datos estructurados, identificando patrones de comportamiento, tendencias de mercado y métricas clave de desempeño.
