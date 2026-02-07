@@ -1,4 +1,4 @@
-
+![alt text](LINKEDIN-COVER.png)
 
 # Sobre mí
 Soy Data Analyst Jr. con una formación profesional en diseño gráfico y experiencia previa en entornos creativos y de negocio, lo que me permite abordar el análisis de datos desde una perspectiva integral. Esta combinación me ha dado una ventaja competitiva: no solo analizo datos, sino que también me enfoco en comunicar insights de forma clara, visual y accionable, alineados a objetivos reales de negocio.
